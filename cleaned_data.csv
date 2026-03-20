@@ -1,0 +1,884 @@
+order_id,distance_km,weather,traffic_level,time_of_day,vehicle_type,preparation_time,courier_experience,delivery_time_min,total_time,is_delayed
+522,7.93,Windy,Low,Afternoon,Scooter,12,1,43,55,On Time
+738,16.42,Clear,Medium,Evening,Bike,20,2,84,104,Delayed
+741,9.52,Foggy,Low,Night,Scooter,28,1,59,87,On Time
+661,7.44,Rainy,Medium,Afternoon,Scooter,5,1,37,42,On Time
+412,19.03,Clear,Low,Morning,Bike,16,5,68,84,Delayed
+679,19.4,Clear,Low,Evening,Scooter,8,9,57,65,On Time
+514,17.39,Clear,Medium,Evening,Scooter,5,6,46,51,On Time
+860,1.78,Snowy,Low,Evening,Car,20,6,35,55,On Time
+137,10.62,Foggy,Low,Evening,Scooter,29,1,73,102,Delayed
+812,16.86,Snowy,Medium,Afternoon,Car,13,4,88,101,Delayed
+77,15.54,Clear,Low,Night,Bike,29,1,76,105,Delayed
+637,10.89,Clear,High,Night,Bike,12,5,53,65,On Time
+974,4.69,Rainy,Medium,Evening,Scooter,12,7,36,48,On Time
+900,2.17,Snowy,Low,Evening,Car,15,3,35,50,On Time
+281,17.86,Rainy,Low,Afternoon,Bike,5,1,50,55,On Time
+884,2.53,Snowy,Low,Morning,Bike,6,8,24,30,On Time
+762,6.58,Foggy,Low,Evening,Car,6,7,27,33,On Time
+320,5.38,Clear,Medium,Evening,Scooter,26,1,47,73,On Time
+550,15.56,Rainy,Low,Afternoon,Scooter,28,0,72,100,Delayed
+175,13.08,Rainy,Low,Morning,Car,16,4,58,74,On Time
+372,0.86,Clear,High,Afternoon,Bike,26,5,37,63,On Time
+528,5.83,Clear,High,Evening,Car,27,9,56,83,On Time
+236,14.59,Clear,Medium,Morning,Bike,15,6,64,79,Delayed
+102,12.91,Windy,Medium,Evening,Bike,11,6,56,67,On Time
+987,13.92,Snowy,Low,Morning,Scooter,18,4,70,88,Delayed
+903,4.04,Snowy,Low,Night,Bike,11,9,70,81,Delayed
+948,18.05,Clear,Medium,Evening,Scooter,10,7,123,133,Delayed
+347,12.88,Clear,Medium,Morning,Scooter,8,5,52,60,On Time
+140,19.45,Rainy,High,Morning,Scooter,20,6,108,128,Delayed
+622,4.58,Clear,High,Morning,Scooter,22,9,45,67,On Time
+500,19.73,Foggy,Medium,Evening,Bike,27,4,111,138,Delayed
+371,2.47,Windy,Medium,Morning,Bike,27,2,44,71,On Time
+199,17.8,Snowy,Medium,Morning,Bike,16,9,73,89,Delayed
+688,5.96,Clear,Medium,Afternoon,Bike,22,7,45,67,On Time
+585,12.85,Windy,Medium,Afternoon,Scooter,18,7,61,79,Delayed
+902,1.02,Clear,Medium,Afternoon,Bike,25,4,34,59,On Time
+60,6.84,Rainy,Medium,Night,Car,14,8,47,61,On Time
+329,8.68,Rainy,Medium,Morning,Bike,8,5,52,60,On Time
+97,10.69,Clear,Medium,Night,Bike,25,9,67,92,Delayed
+975,1.11,Clear,Low,Morning,Bike,5,6,8,13,On Time
+300,2.16,Snowy,Low,Evening,Scooter,15,0,36,51,On Time
+278,13.17,Windy,Medium,Afternoon,Bike,16,4,67,83,Delayed
+925,8.79,Snowy,Low,Night,Bike,14,6,43,57,On Time
+602,5.93,Clear,Low,Afternoon,Scooter,19,3,36,55,On Time
+440,2.09,Rainy,Low,Night,Bike,23,2,36,59,On Time
+838,7.57,Clear,Low,Morning,Bike,21,0,56,77,On Time
+571,10.52,Rainy,Medium,Afternoon,Scooter,8,4,56,64,On Time
+880,4.83,Rainy,Low,Morning,Car,25,9,47,72,On Time
+262,19.81,Snowy,Medium,Afternoon,Car,20,5,104,124,Delayed
+579,10.1,Rainy,Low,Evening,Car,8,4,50,58,On Time
+24,7.64,Windy,Low,Afternoon,Car,10,8,31,41,On Time
+31,12.35,Clear,Low,Morning,Scooter,10,6,35,45,On Time
+618,5.9,Rainy,Low,Evening,Car,26,9,44,70,On Time
+11,0.9,Clear,Low,Afternoon,Bike,20,8,23,43,On Time
+222,11.58,Clear,Medium,Morning,Scooter,16,2,61,77,Delayed
+821,16.16,Clear,High,Afternoon,Bike,11,1,82,93,Delayed
+297,15.51,Clear,Low,Evening,Bike,17,9,69,86,Delayed
+55,12.16,Windy,High,Evening,Scooter,11,0,69,80,Delayed
+543,4.96,Rainy,High,Morning,Bike,21,0,60,81,On Time
+210,3.64,Windy,High,Evening,Bike,17,6,40,57,On Time
+605,2.85,Clear,Low,Morning,Scooter,26,0,38,64,On Time
+693,10.4,Clear,Low,Evening,Bike,16,4,52,68,On Time
+663,12.31,Windy,Low,Morning,Bike,29,4,68,97,Delayed
+867,3.53,Clear,Medium,Afternoon,Bike,13,7,31,44,On Time
+71,15.56,Clear,Medium,Evening,Bike,14,3,54,68,On Time
+544,13.6,Clear,Medium,Afternoon,Bike,27,0,87,114,Delayed
+108,15.23,Snowy,High,Morning,Bike,5,0,62,67,Delayed
+591,3.21,Rainy,High,Night,Scooter,16,0,42,58,On Time
+742,6.38,Snowy,Low,Evening,Bike,16,1,111,127,Delayed
+293,16.54,Rainy,Low,Afternoon,Scooter,6,7,51,57,On Time
+290,12.02,Clear,Low,Morning,Car,9,7,41,50,On Time
+653,11.94,Clear,Low,Evening,Bike,20,3,69,89,Delayed
+40,9.08,Clear,Low,Afternoon,Scooter,14,5,49,63,On Time
+590,3.46,Snowy,Medium,Morning,Scooter,23,3,48,71,On Time
+308,6.8,Foggy,Medium,Morning,Scooter,13,7,46,59,On Time
+680,17.38,Rainy,Medium,Afternoon,Scooter,11,2,92,103,Delayed
+67,3.25,Clear,Low,Morning,Bike,23,7,32,55,On Time
+276,10.28,Clear,Medium,Evening,Scooter,29,3,71,100,Delayed
+68,16.14,Clear,Low,Night,Car,6,9,65,71,Delayed
+319,3.55,Clear,Medium,Evening,Bike,23,0,43,66,On Time
+999,19.03,Clear,Low,Afternoon,Car,26,5,68,94,Delayed
+715,7.3,Clear,Low,Night,Scooter,14,7,28,42,On Time
+754,7.03,Clear,Low,Evening,Scooter,21,1,44,65,On Time
+328,12.43,Snowy,Low,Afternoon,Car,12,0,70,82,Delayed
+452,11.39,Rainy,High,Evening,Scooter,14,1,72,86,Delayed
+523,19.41,Clear,Low,Morning,Car,7,3,48,55,On Time
+219,13.17,Rainy,High,Evening,Scooter,17,8,69,86,Delayed
+788,8.32,Rainy,Low,Afternoon,Car,12,2,49,61,On Time
+765,1.15,Clear,Low,Afternoon,Scooter,26,4,30,56,On Time
+89,17.8,Windy,High,Afternoon,Car,12,9,73,85,Delayed
+64,7.46,Clear,Medium,Evening,Bike,8,5,42,50,On Time
+827,7.25,Clear,Medium,Afternoon,Scooter,18,4,45,63,On Time
+717,16.7,Clear,Medium,Afternoon,Scooter,28,1,76,104,Delayed
+352,17.2,Rainy,High,Afternoon,Scooter,14,2,94,108,Delayed
+937,0.86,Clear,Medium,Afternoon,Car,21,7,28,49,On Time
+257,18.76,Clear,Medium,Evening,Car,15,2,80,95,Delayed
+636,9.22,Clear,Medium,Afternoon,Car,18,9,57,75,On Time
+645,2.84,Clear,Low,Evening,Scooter,24,2,35,59,On Time
+555,17.59,Clear,Low,Morning,Bike,24,6,69,93,Delayed
+960,14.89,Snowy,High,Morning,Scooter,17,6,87,104,Delayed
+169,1.3,Clear,Medium,Evening,Bike,22,4,31,53,On Time
+918,18.99,Rainy,High,Afternoon,Bike,10,6,70,80,Delayed
+824,8.26,Snowy,Low,Afternoon,Bike,15,1,57,72,On Time
+986,10.16,Clear,High,Night,Bike,12,5,52,64,On Time
+87,14.73,Rainy,Low,Afternoon,Bike,24,6,74,98,Delayed
+433,12.56,Clear,High,Evening,Bike,17,5,69,86,Delayed
+185,5.53,Clear,Medium,Afternoon,Bike,19,1,44,63,On Time
+979,10.18,Foggy,Medium,Morning,Bike,25,3,73,98,Delayed
+535,15.5,Clear,Medium,Morning,Scooter,28,9,91,119,Delayed
+893,16.69,Foggy,Medium,Evening,Scooter,8,2,65,73,Delayed
+426,11.22,Windy,High,Evening,Bike,25,5,79,104,Delayed
+714,8.53,Clear,Low,Evening,Scooter,8,2,41,49,On Time
+261,12.49,Clear,Medium,Morning,Bike,25,4,77,102,Delayed
+238,0.97,Clear,Low,Night,Scooter,24,8,26,50,On Time
+560,12.6,Windy,Medium,Afternoon,Car,8,6,58,66,On Time
+584,6.91,Clear,Medium,Evening,Scooter,28,9,56,84,On Time
+446,18.97,Clear,Low,Evening,Car,25,4,141,166,Delayed
+801,14.29,Windy,Medium,Morning,Bike,14,7,78,92,Delayed
+600,1.3,Foggy,Low,Evening,Bike,19,5,29,48,On Time
+850,12.11,Rainy,Low,Morning,Bike,9,5,59,68,On Time
+266,14.94,Clear,Medium,Morning,Bike,11,0,62,73,Delayed
+996,2.29,Rainy,High,Afternoon,Car,8,8,80,88,Delayed
+530,17.36,Rainy,High,Afternoon,Bike,24,1,105,129,Delayed
+56,18.48,Clear,Medium,Night,Bike,8,0,82,90,Delayed
+121,16.25,Foggy,High,Morning,Bike,10,5,91,101,Delayed
+216,5.13,Clear,Low,Morning,Car,15,4,30,45,On Time
+73,0.61,Clear,Low,Afternoon,Scooter,10,0,16,26,On Time
+45,5.55,Foggy,High,Evening,Bike,18,1,116,134,Delayed
+722,4.03,Clear,Medium,Evening,Bike,9,5,25,34,On Time
+282,7.09,Snowy,Low,Morning,Scooter,13,8,37,50,On Time
+894,8.25,Clear,Medium,Afternoon,Bike,7,9,28,35,On Time
+915,11.26,Clear,Low,Night,Bike,5,6,49,54,On Time
+811,19.7,Rainy,Low,Evening,Bike,10,2,60,70,On Time
+245,0.8,Snowy,High,Evening,Bike,14,9,36,50,On Time
+823,7.0,Rainy,Medium,Evening,Bike,17,9,49,66,On Time
+322,14.43,Clear,Medium,Morning,Car,14,4,113,127,Delayed
+644,6.89,Rainy,Medium,Afternoon,Bike,11,6,43,54,On Time
+159,5.13,Foggy,Medium,Evening,Car,25,1,60,85,On Time
+978,1.5,Clear,Low,Afternoon,Bike,10,1,17,27,On Time
+942,11.31,Clear,Medium,Evening,Bike,7,0,54,61,On Time
+463,15.05,Clear,Medium,Evening,Car,12,2,66,78,Delayed
+310,5.78,Foggy,Low,Afternoon,Scooter,9,9,33,42,On Time
+698,11.83,Clear,Low,Evening,Scooter,9,7,32,41,On Time
+61,8.08,Foggy,Low,Morning,Bike,25,2,61,86,Delayed
+885,16.1,Clear,Low,Evening,Bike,25,0,64,89,Delayed
+596,9.74,Rainy,Medium,Evening,Scooter,7,8,37,44,On Time
+768,17.6,Clear,Low,Afternoon,Bike,27,3,69,96,Delayed
+650,10.22,Snowy,Medium,Night,Bike,18,1,68,86,Delayed
+651,2.19,Clear,Low,Evening,Bike,26,3,32,58,On Time
+866,11.41,Windy,Medium,Afternoon,Scooter,17,4,68,85,Delayed
+669,4.14,Clear,Medium,Morning,Scooter,14,2,30,44,On Time
+299,12.65,Rainy,Low,Afternoon,Bike,18,8,60,78,On Time
+311,9.06,Clear,Medium,Evening,Bike,23,4,47,70,On Time
+362,13.04,Clear,Medium,Morning,Scooter,20,6,65,85,Delayed
+480,10.7,Clear,Medium,Afternoon,Scooter,8,5,44,52,On Time
+111,6.15,Foggy,Low,Evening,Scooter,26,5,48,74,On Time
+990,16.47,Snowy,High,Evening,Scooter,20,9,75,95,Delayed
+487,1.39,Clear,Medium,Afternoon,Bike,15,4,24,39,On Time
+364,11.14,Rainy,Medium,Morning,Scooter,7,3,47,54,On Time
+255,3.81,Rainy,High,Afternoon,Bike,5,6,31,36,On Time
+260,2.39,Rainy,Medium,Evening,Bike,27,7,43,70,On Time
+803,11.74,Clear,High,Evening,Car,6,3,54,60,On Time
+495,9.54,Rainy,Medium,Evening,Scooter,11,5,47,58,On Time
+671,3.88,Clear,Medium,Morning,Bike,16,2,35,51,On Time
+378,0.95,Rainy,Medium,Morning,Car,27,0,44,71,On Time
+527,8.59,Clear,Low,Night,Scooter,17,8,36,53,On Time
+846,8.59,Clear,Low,Evening,Bike,22,2,43,65,On Time
+356,13.03,Foggy,Low,Morning,Scooter,9,1,50,59,On Time
+366,8.03,Clear,Low,Evening,Scooter,14,8,42,56,On Time
+943,13.2,Snowy,Low,Morning,Car,14,3,62,76,Delayed
+750,12.67,Clear,Medium,Evening,Car,10,3,65,75,Delayed
+830,9.32,Clear,Low,Morning,Scooter,6,5,30,36,On Time
+657,6.03,Rainy,High,Afternoon,Car,8,6,46,54,On Time
+200,15.71,Clear,Low,Afternoon,Scooter,28,5,69,97,Delayed
+214,4.87,Snowy,High,Evening,Bike,16,7,54,70,On Time
+409,18.15,Rainy,High,Morning,Bike,22,7,108,130,Delayed
+333,0.78,Clear,Medium,Morning,Bike,6,1,17,23,On Time
+209,0.6,Clear,Low,Afternoon,Bike,26,3,30,56,On Time
+614,2.09,Clear,Medium,Evening,Bike,5,5,16,21,On Time
+30,1.41,Foggy,Medium,Evening,Bike,15,0,72,87,Delayed
+536,18.92,Clear,High,Morning,Scooter,27,4,100,127,Delayed
+696,12.41,Clear,Medium,Morning,Car,10,1,51,61,On Time
+837,18.34,Clear,High,Night,Bike,9,4,92,101,Delayed
+597,13.52,Clear,Low,Morning,Scooter,27,1,82,109,Delayed
+166,16.79,Foggy,High,Afternoon,Bike,24,6,85,109,Delayed
+919,15.39,Clear,Medium,Evening,Scooter,24,5,89,113,Delayed
+496,7.39,Rainy,Medium,Morning,Scooter,25,6,60,85,On Time
+825,10.98,Rainy,Low,Morning,Scooter,10,6,55,65,On Time
+66,11.08,Snowy,Medium,Morning,Bike,9,0,57,66,On Time
+142,5.41,Clear,Medium,Night,Bike,14,5,36,50,On Time
+926,0.94,Clear,High,Morning,Bike,9,6,21,30,On Time
+828,7.27,Windy,Low,Afternoon,Bike,10,5,35,45,On Time
+656,2.99,Windy,Medium,Morning,Bike,27,5,41,68,On Time
+332,15.28,Snowy,Low,Evening,Bike,16,5,72,88,Delayed
+665,2.48,Windy,Medium,Afternoon,Car,14,6,27,41,On Time
+250,17.13,Rainy,Low,Evening,Car,19,1,71,90,Delayed
+908,7.17,Clear,Low,Afternoon,Bike,15,7,32,47,On Time
+709,5.47,Rainy,Low,Morning,Car,21,6,38,59,On Time
+306,19.53,Foggy,Low,Afternoon,Bike,11,6,87,98,Delayed
+735,7.5,Clear,High,Morning,Bike,29,1,66,95,Delayed
+976,5.61,Windy,Low,Night,Bike,25,9,48,73,On Time
+50,4.1,Clear,Low,Morning,Bike,21,3,37,58,On Time
+897,6.22,Rainy,Medium,Morning,Bike,15,0,49,64,On Time
+545,12.55,Windy,Low,Evening,Bike,13,8,51,64,On Time
+351,10.31,Foggy,Medium,Morning,Scooter,19,5,62,81,Delayed
+905,8.72,Snowy,Medium,Evening,Car,18,7,64,82,Delayed
+537,17.07,Clear,Medium,Morning,Bike,20,6,73,93,Delayed
+482,14.07,Clear,High,Afternoon,Bike,5,8,67,72,Delayed
+576,19.02,Clear,Medium,Afternoon,Bike,29,9,87,116,Delayed
+34,19.0,Clear,High,Morning,Car,28,3,96,124,Delayed
+32,3.83,Rainy,Medium,Afternoon,Bike,12,9,30,42,On Time
+232,10.3,Clear,Low,Evening,Scooter,19,8,48,67,On Time
+964,8.09,Clear,High,Afternoon,Scooter,15,4,51,66,On Time
+193,18.06,Clear,Medium,Night,Bike,9,8,52,61,On Time
+334,2.76,Windy,Medium,Morning,Scooter,8,5,22,30,On Time
+4,12.17,Snowy,Low,Evening,Bike,20,8,68,88,Delayed
+205,12.33,Clear,Medium,Evening,Bike,22,9,75,97,Delayed
+515,1.38,Clear,Medium,Evening,Scooter,5,8,13,18,On Time
+800,18.49,Clear,Low,Afternoon,Scooter,14,6,71,85,Delayed
+307,10.57,Snowy,Low,Afternoon,Bike,28,9,59,87,On Time
+110,2.0,Clear,High,Evening,Scooter,10,2,30,40,On Time
+431,3.29,Clear,Medium,Afternoon,Scooter,17,4,32,49,On Time
+78,1.94,Rainy,Medium,Morning,Bike,16,0,35,51,On Time
+287,9.58,Clear,High,Afternoon,Car,26,8,60,86,On Time
+83,6.95,Clear,Medium,Morning,Scooter,25,2,58,83,On Time
+992,14.05,Clear,High,Morning,Scooter,19,0,72,91,Delayed
+790,18.97,Rainy,High,Night,Bike,20,8,108,128,Delayed
+895,13.53,Rainy,Low,Evening,Bike,28,8,78,106,Delayed
+399,15.14,Rainy,Medium,Morning,Bike,8,6,66,74,Delayed
+324,5.96,Clear,Low,Afternoon,Bike,26,6,48,74,On Time
+520,3.43,Windy,Medium,Morning,Bike,7,6,23,30,On Time
+923,17.94,Rainy,High,Evening,Scooter,22,6,85,107,Delayed
+6,3.54,Rainy,Medium,Evening,Bike,10,5,32,42,On Time
+466,7.81,Clear,Low,Evening,Bike,11,4,42,53,On Time
+267,14.09,Clear,Medium,Afternoon,Scooter,12,3,55,67,On Time
+358,11.92,Clear,Low,Afternoon,Scooter,14,4,46,60,On Time
+869,17.3,Clear,Low,Evening,Scooter,9,0,67,76,Delayed
+799,14.08,Clear,High,Morning,Bike,28,6,66,94,Delayed
+381,2.8,Clear,High,Afternoon,Bike,28,1,50,78,On Time
+382,14.09,Clear,High,Afternoon,Bike,12,6,67,79,Delayed
+491,9.39,Clear,Low,Morning,Bike,14,2,37,51,On Time
+901,4.55,Rainy,Low,Afternoon,Bike,5,6,21,26,On Time
+251,6.24,Snowy,Low,Afternoon,Bike,20,4,51,71,On Time
+524,16.92,Clear,Low,Morning,Scooter,29,0,70,99,Delayed
+10,14.31,Clear,Medium,Morning,Bike,9,8,47,56,On Time
+604,2.23,Clear,Low,Morning,Bike,7,6,14,21,On Time
+82,12.65,Clear,Low,Evening,Bike,15,4,66,81,Delayed
+784,7.24,Rainy,Medium,Evening,Bike,28,6,65,93,Delayed
+588,3.01,Clear,Medium,Evening,Bike,14,4,26,40,On Time
+240,3.95,Clear,Low,Afternoon,Bike,13,5,25,38,On Time
+291,1.09,Clear,Medium,Morning,Scooter,6,2,17,23,On Time
+212,13.99,Clear,High,Evening,Scooter,7,3,96,103,Delayed
+718,19.32,Rainy,High,Morning,Car,21,7,112,133,Delayed
+360,11.72,Rainy,Low,Evening,Bike,11,9,42,53,On Time
+450,2.13,Rainy,Low,Morning,Scooter,9,2,22,31,On Time
+228,8.17,Clear,Medium,Afternoon,Scooter,20,9,44,64,On Time
+951,12.21,Clear,High,Morning,Bike,9,4,57,66,On Time
+947,3.17,Clear,Medium,Evening,Scooter,17,6,33,50,On Time
+797,18.68,Snowy,Low,Afternoon,Bike,11,8,62,73,Delayed
+502,10.95,Clear,Medium,Evening,Scooter,24,4,55,79,On Time
+465,19.26,Windy,Medium,Morning,Scooter,21,6,67,88,Delayed
+469,4.86,Foggy,Medium,Evening,Car,25,4,52,77,On Time
+936,5.81,Foggy,Low,Afternoon,Bike,25,8,51,76,On Time
+429,7.34,Rainy,Low,Evening,Bike,22,8,47,69,On Time
+8,17.39,Foggy,Medium,Morning,Bike,25,4,100,125,Delayed
+156,5.22,Snowy,Low,Evening,Bike,11,9,40,51,On Time
+542,12.32,Clear,Medium,Evening,Scooter,17,4,71,88,Delayed
+441,2.15,Windy,Medium,Afternoon,Car,17,6,30,47,On Time
+483,9.36,Rainy,High,Morning,Scooter,17,2,65,82,Delayed
+423,2.28,Clear,Medium,Evening,Scooter,27,9,39,66,On Time
+779,14.54,Clear,Medium,Evening,Bike,29,2,73,102,Delayed
+950,12.15,Clear,High,Morning,Car,12,6,63,75,Delayed
+335,1.4,Windy,Low,Evening,Bike,9,9,17,26,On Time
+935,3.85,Rainy,Medium,Afternoon,Bike,26,3,46,72,On Time
+595,17.99,Snowy,Low,Afternoon,Bike,15,3,63,78,Delayed
+531,16.35,Clear,Medium,Morning,Bike,16,0,66,82,Delayed
+582,19.61,Clear,High,Evening,Bike,8,6,72,80,Delayed
+708,16.29,Clear,Low,Morning,Bike,20,1,72,92,Delayed
+449,7.84,Windy,Low,Afternoon,Bike,6,4,28,34,On Time
+454,18.17,Rainy,Low,Afternoon,Car,13,0,71,84,Delayed
+353,13.34,Clear,Medium,Night,Bike,20,6,53,73,On Time
+729,4.43,Foggy,Low,Morning,Scooter,10,1,63,73,Delayed
+80,2.76,Windy,Medium,Night,Bike,6,2,27,33,On Time
+149,1.5,Foggy,Medium,Evening,Scooter,15,4,32,47,On Time
+303,11.04,Clear,Medium,Afternoon,Scooter,8,2,54,62,On Time
+507,18.26,Rainy,High,Night,Scooter,28,7,93,121,Delayed
+343,3.88,Foggy,Low,Evening,Car,27,9,42,69,On Time
+486,18.07,Clear,High,Afternoon,Scooter,5,2,67,72,Delayed
+712,12.11,Clear,Medium,Evening,Bike,28,0,75,103,Delayed
+134,7.08,Clear,Medium,Afternoon,Scooter,5,8,27,32,On Time
+704,3.12,Rainy,Low,Evening,Scooter,14,5,28,42,On Time
+312,2.03,Foggy,High,Evening,Car,14,4,36,50,On Time
+630,5.42,Clear,Low,Evening,Scooter,11,9,26,37,On Time
+1,7.8,Clear,Low,Evening,Scooter,23,5,52,75,On Time
+317,8.47,Rainy,Low,Afternoon,Scooter,19,0,48,67,On Time
+707,6.79,Rainy,Low,Evening,Scooter,16,1,39,55,On Time
+548,13.6,Rainy,Medium,Afternoon,Scooter,23,6,83,106,Delayed
+873,13.06,Rainy,High,Morning,Bike,17,8,59,76,On Time
+533,19.93,Snowy,Low,Afternoon,Bike,6,6,59,65,On Time
+478,11.3,Snowy,Medium,Afternoon,Bike,15,8,70,85,Delayed
+405,6.74,Rainy,Medium,Evening,Car,21,9,47,68,On Time
+173,10.49,Rainy,Low,Morning,Bike,28,9,66,94,Delayed
+395,7.15,Clear,High,Night,Car,29,7,60,89,On Time
+421,15.94,Clear,Low,Evening,Bike,24,2,77,101,Delayed
+553,11.26,Foggy,High,Afternoon,Bike,14,2,70,84,Delayed
+904,11.87,Clear,Medium,Morning,Bike,10,6,43,53,On Time
+91,2.83,Windy,Medium,Afternoon,Scooter,14,6,28,42,On Time
+940,11.74,Clear,Low,Afternoon,Car,20,1,52,72,On Time
+182,2.71,Clear,Low,Morning,Scooter,6,1,20,26,On Time
+275,10.47,Clear,High,Evening,Scooter,14,7,55,69,On Time
+896,4.5,Snowy,High,Evening,Bike,24,0,66,90,Delayed
+292,1.23,Clear,Low,Evening,Bike,18,6,21,39,On Time
+132,4.83,Clear,Low,Evening,Bike,11,1,29,40,On Time
+301,1.51,Clear,High,Afternoon,Bike,14,2,32,46,On Time
+425,1.62,Windy,Low,Evening,Bike,9,8,16,25,On Time
+327,11.31,Clear,High,Evening,Bike,20,0,67,87,Delayed
+145,6.05,Clear,Medium,Morning,Car,24,0,48,72,On Time
+424,10.14,Clear,Medium,Morning,Scooter,20,1,59,79,On Time
+581,9.45,Clear,Low,Afternoon,Car,13,0,49,62,On Time
+136,6.8,Clear,High,Evening,Bike,28,5,55,83,On Time
+451,15.65,Clear,Low,Afternoon,Bike,27,0,76,103,Delayed
+165,2.26,Clear,Medium,Morning,Scooter,6,3,19,25,On Time
+29,12.05,Clear,Low,Evening,Scooter,29,4,61,90,Delayed
+774,8.25,Windy,Medium,Evening,Car,24,4,62,86,Delayed
+194,12.85,Rainy,Medium,Afternoon,Scooter,23,0,80,103,Delayed
+389,15.14,Windy,Medium,Morning,Bike,15,4,71,86,Delayed
+853,4.59,Foggy,Low,Evening,Scooter,19,8,36,55,On Time
+170,12.02,Clear,Low,Afternoon,Bike,26,0,63,89,Delayed
+706,19.8,Clear,High,Evening,Bike,7,3,88,95,Delayed
+141,19.27,Foggy,High,Afternoon,Bike,14,6,92,106,Delayed
+174,4.92,Clear,High,Morning,Scooter,12,0,41,53,On Time
+7,1.63,Rainy,Medium,Night,Bike,24,5,38,62,On Time
+746,18.04,Clear,Medium,Morning,Bike,8,5,71,79,Delayed
+74,16.4,Clear,High,Morning,Scooter,12,2,70,82,Delayed
+911,12.01,Clear,Low,Morning,Car,5,7,42,47,On Time
+146,1.22,Foggy,High,Afternoon,Scooter,14,2,38,52,On Time
+793,10.36,Rainy,Medium,Afternoon,Bike,7,8,39,46,On Time
+235,4.31,Rainy,Medium,Afternoon,Bike,9,2,35,44,On Time
+221,13.32,Windy,Medium,Afternoon,Bike,26,0,71,97,Delayed
+924,16.1,Clear,Low,Morning,Car,16,6,61,77,Delayed
+501,14.11,Rainy,High,Morning,Scooter,24,3,93,117,Delayed
+133,2.84,Clear,Medium,Night,Scooter,28,1,44,72,On Time
+991,16.09,Snowy,Low,Morning,Car,13,6,69,82,Delayed
+775,16.05,Snowy,Medium,Evening,Bike,11,2,89,100,Delayed
+186,13.37,Windy,High,Afternoon,Scooter,17,8,63,80,Delayed
+42,10.16,Snowy,Medium,Night,Bike,10,1,67,77,Delayed
+697,6.13,Clear,Medium,Night,Scooter,22,0,48,70,On Time
+109,4.96,Rainy,Low,Afternoon,Car,10,7,28,38,On Time
+589,3.0,Clear,Low,Morning,Scooter,29,1,43,72,On Time
+57,2.23,Snowy,Medium,Evening,Car,14,0,41,55,On Time
+443,7.8,Rainy,Medium,Morning,Bike,11,7,49,60,On Time
+758,10.9,Clear,High,Afternoon,Scooter,6,8,47,53,On Time
+998,3.17,Clear,Low,Afternoon,Bike,17,1,28,45,On Time
+25,9.39,Windy,Medium,Morning,Scooter,21,9,50,71,On Time
+468,17.44,Clear,Low,Evening,Bike,25,9,89,114,Delayed
+540,3.02,Rainy,Medium,Morning,Bike,23,1,46,69,On Time
+532,19.99,Rainy,High,Evening,Bike,17,1,112,129,Delayed
+619,16.22,Rainy,High,Evening,Bike,22,0,102,124,Delayed
+695,2.74,Clear,High,Afternoon,Bike,18,9,37,55,On Time
+927,5.74,Rainy,High,Evening,Bike,13,9,46,59,On Time
+339,9.75,Clear,Low,Afternoon,Bike,22,7,50,72,On Time
+52,15.62,Rainy,Medium,Afternoon,Scooter,23,7,78,101,Delayed
+508,16.54,Rainy,Medium,Afternoon,Bike,25,7,77,102,Delayed
+517,7.84,Rainy,Low,Morning,Scooter,7,8,36,43,On Time
+782,11.08,Windy,High,Afternoon,Bike,16,6,70,86,Delayed
+265,17.61,Clear,Medium,Evening,Scooter,21,9,79,100,Delayed
+818,8.28,Snowy,Low,Evening,Car,29,7,58,87,On Time
+711,15.32,Clear,Medium,Morning,Bike,17,6,80,97,Delayed
+683,3.83,Rainy,Low,Evening,Car,27,3,49,76,On Time
+519,19.75,Clear,Medium,Morning,Bike,25,1,103,128,Delayed
+448,15.19,Foggy,Low,Evening,Scooter,6,4,53,59,On Time
+716,18.63,Windy,Low,Afternoon,Bike,11,5,85,96,Delayed
+484,12.74,Clear,Low,Night,Scooter,18,0,67,85,Delayed
+569,18.13,Rainy,High,Evening,Bike,21,2,88,109,Delayed
+434,2.47,Rainy,Low,Afternoon,Car,22,6,34,56,On Time
+368,18.15,Windy,Medium,Morning,Bike,11,2,89,100,Delayed
+84,1.74,Foggy,High,Afternoon,Scooter,8,9,28,36,On Time
+62,5.79,Windy,Medium,Morning,Bike,26,6,49,75,On Time
+639,5.75,Windy,High,Morning,Scooter,7,4,37,44,On Time
+273,17.41,Snowy,Medium,Evening,Bike,20,4,80,100,Delayed
+286,1.2,Rainy,Low,Morning,Scooter,24,7,33,57,On Time
+361,8.07,Windy,Low,Evening,Bike,21,4,48,69,On Time
+355,1.88,Clear,Medium,Morning,Scooter,24,7,35,59,On Time
+457,0.72,Rainy,Medium,Afternoon,Scooter,9,2,23,32,On Time
+279,14.19,Clear,Medium,Afternoon,Bike,9,1,57,66,On Time
+13,16.73,Windy,High,Afternoon,Scooter,9,7,71,80,Delayed
+183,18.53,Rainy,Low,Afternoon,Scooter,8,8,57,65,On Time
+369,4.32,Clear,Low,Morning,Bike,21,9,34,55,On Time
+882,13.6,Foggy,High,Evening,Bike,9,7,61,70,Delayed
+616,18.46,Rainy,Low,Morning,Bike,19,9,94,113,Delayed
+224,7.67,Windy,Low,Morning,Car,9,2,31,40,On Time
+573,8.23,Snowy,Low,Evening,Bike,17,3,56,73,On Time
+971,13.44,Clear,Low,Night,Bike,29,0,63,92,Delayed
+654,15.04,Clear,Low,Morning,Car,24,5,60,84,On Time
+546,7.48,Clear,Medium,Morning,Car,21,4,52,73,On Time
+634,10.88,Snowy,Low,Afternoon,Car,13,3,52,65,On Time
+177,13.97,Snowy,Low,Evening,Scooter,14,8,52,66,On Time
+666,3.48,Foggy,Low,Afternoon,Scooter,9,1,31,40,On Time
+674,10.73,Foggy,Low,Morning,Bike,6,6,35,41,On Time
+586,5.18,Clear,Medium,Afternoon,Car,9,2,30,39,On Time
+874,8.47,Foggy,Medium,Evening,Bike,24,0,68,92,Delayed
+249,19.29,Windy,Medium,Evening,Scooter,7,8,84,91,Delayed
+886,3.98,Clear,High,Night,Car,19,3,41,60,On Time
+670,6.06,Foggy,Low,Afternoon,Scooter,10,8,41,51,On Time
+376,6.72,Foggy,Low,Evening,Bike,8,5,31,39,On Time
+413,19.04,Clear,Medium,Morning,Scooter,27,2,85,112,Delayed
+75,14.28,Windy,High,Afternoon,Scooter,23,5,77,100,Delayed
+114,16.26,Rainy,High,Morning,Bike,16,6,70,86,Delayed
+599,4.25,Clear,Low,Afternoon,Bike,5,4,22,27,On Time
+962,12.26,Clear,Low,Afternoon,Bike,20,2,66,86,Delayed
+391,19.81,Clear,Low,Afternoon,Bike,27,1,74,101,Delayed
+105,18.2,Windy,Medium,Morning,Bike,27,1,108,135,Delayed
+115,12.85,Rainy,Medium,Morning,Scooter,14,8,73,87,Delayed
+418,6.91,Clear,Low,Evening,Bike,27,8,91,118,Delayed
+526,9.64,Clear,Low,Morning,Bike,10,5,46,56,On Time
+458,9.64,Rainy,Medium,Evening,Bike,14,6,52,66,On Time
+410,2.28,Foggy,Medium,Morning,Scooter,27,6,44,71,On Time
+93,15.34,Rainy,Low,Afternoon,Bike,18,6,54,72,On Time
+931,3.22,Rainy,Medium,Night,Bike,14,8,34,48,On Time
+90,9.71,Clear,Low,Morning,Bike,8,1,49,57,On Time
+337,17.18,Clear,Medium,Night,Scooter,13,1,62,75,Delayed
+989,5.3,Clear,Medium,Afternoon,Scooter,29,3,47,76,On Time
+922,10.0,Clear,Medium,Afternoon,Scooter,6,9,47,53,On Time
+934,10.75,Rainy,Medium,Morning,Bike,8,6,60,68,On Time
+606,9.49,Rainy,Medium,Morning,Car,23,6,53,76,On Time
+594,7.24,Clear,Medium,Afternoon,Bike,28,7,57,85,On Time
+612,16.09,Rainy,Low,Morning,Bike,21,8,66,87,Delayed
+95,15.53,Clear,Low,Morning,Bike,26,6,83,109,Delayed
+12,19.41,Windy,Low,Morning,Bike,11,8,62,73,Delayed
+397,17.24,Clear,Low,Evening,Bike,17,5,69,86,Delayed
+44,18.23,Rainy,Low,Afternoon,Scooter,27,9,86,113,Delayed
+43,1.17,Clear,Medium,Morning,Bike,16,9,25,41,On Time
+330,5.33,Clear,Low,Evening,Car,29,1,51,80,On Time
+168,4.14,Rainy,Low,Morning,Bike,23,2,41,64,On Time
+498,2.02,Clear,High,Evening,Bike,28,5,44,72,On Time
+877,14.46,Rainy,Medium,Morning,Scooter,11,9,68,79,Delayed
+598,3.86,Clear,Medium,Afternoon,Bike,21,8,34,55,On Time
+757,12.59,Windy,Medium,Morning,Bike,13,9,62,75,Delayed
+101,1.11,Clear,High,Morning,Scooter,22,8,35,57,On Time
+427,9.11,Clear,Low,Afternoon,Bike,19,6,42,61,On Time
+179,18.77,Snowy,Medium,Evening,Bike,24,0,115,139,Delayed
+445,16.35,Foggy,Medium,Night,Bike,16,6,67,83,Delayed
+417,6.22,Clear,Low,Afternoon,Bike,16,9,29,45,On Time
+871,7.78,Foggy,High,Afternoon,Bike,25,3,74,99,Delayed
+883,0.88,Rainy,Low,Night,Car,27,2,37,64,On Time
+681,16.43,Clear,Low,Evening,Bike,13,5,56,69,On Time
+178,8.04,Clear,Medium,Evening,Car,27,0,65,92,Delayed
+396,18.65,Foggy,Low,Night,Car,19,2,68,87,Delayed
+912,5.73,Foggy,Low,Morning,Scooter,7,2,30,37,On Time
+794,12.42,Rainy,Low,Evening,Bike,28,9,79,107,Delayed
+961,2.11,Clear,Low,Afternoon,Scooter,28,5,34,62,On Time
+685,18.62,Clear,Low,Evening,Scooter,27,6,75,102,Delayed
+384,17.61,Clear,Medium,Morning,Scooter,19,3,80,99,Delayed
+957,10.62,Rainy,Medium,Night,Bike,7,2,48,55,On Time
+258,14.07,Clear,Medium,Morning,Bike,16,9,73,89,Delayed
+539,9.29,Clear,Medium,Evening,Bike,10,9,40,50,On Time
+336,1.29,Rainy,Low,Evening,Bike,7,7,15,22,On Time
+16,4.08,Windy,Medium,Afternoon,Bike,7,0,33,40,On Time
+325,19.12,Windy,High,Evening,Car,8,0,92,100,Delayed
+759,17.93,Clear,Medium,Afternoon,Bike,29,4,85,114,Delayed
+180,3.18,Rainy,Medium,Evening,Bike,21,3,42,63,On Time
+984,1.97,Clear,High,Morning,Car,28,7,43,71,On Time
+23,6.2,Windy,High,Evening,Scooter,7,3,42,49,On Time
+357,1.02,Windy,High,Evening,Bike,6,8,21,27,On Time
+667,5.3,Clear,Low,Evening,Bike,16,5,32,48,On Time
+862,9.34,Rainy,Low,Evening,Car,10,0,40,50,On Time
+341,10.09,Clear,Medium,Evening,Bike,7,0,49,56,On Time
+432,15.35,Rainy,High,Night,Scooter,23,9,80,103,Delayed
+552,17.12,Rainy,Low,Morning,Bike,26,3,86,112,Delayed
+834,3.94,Snowy,Low,Afternoon,Bike,19,3,43,62,On Time
+631,14.41,Snowy,Medium,Evening,Bike,8,8,75,83,Delayed
+94,11.44,Rainy,Medium,Evening,Car,20,2,57,77,On Time
+559,15.23,Foggy,Low,Morning,Car,6,0,52,58,On Time
+69,1.95,Clear,Low,Morning,Scooter,16,2,23,39,On Time
+285,11.78,Clear,Low,Afternoon,Scooter,26,3,71,97,Delayed
+845,3.4,Windy,Medium,Morning,Bike,11,6,30,41,On Time
+435,2.14,Clear,High,Evening,Bike,18,3,34,52,On Time
+154,10.04,Rainy,High,Afternoon,Bike,12,9,59,71,On Time
+731,3.7,Clear,Medium,Morning,Bike,28,7,45,73,On Time
+447,19.73,Rainy,Low,Evening,Bike,8,8,64,72,Delayed
+189,10.83,Clear,Medium,Evening,Scooter,8,9,51,59,On Time
+272,16.3,Foggy,Low,Morning,Car,12,1,100,112,Delayed
+237,5.98,Foggy,High,Morning,Bike,14,6,44,58,On Time
+488,5.98,Rainy,High,Morning,Bike,21,2,60,81,On Time
+118,4.14,Foggy,Medium,Morning,Bike,21,0,46,67,On Time
+513,18.69,Windy,Medium,Night,Bike,23,9,74,97,Delayed
+826,18.44,Rainy,High,Morning,Bike,27,7,80,107,Delayed
+592,13.0,Windy,High,Morning,Bike,22,8,65,87,Delayed
+117,16.17,Clear,Medium,Evening,Car,10,2,116,126,Delayed
+474,17.88,Clear,Medium,Evening,Bike,29,3,98,127,Delayed
+694,5.23,Clear,Medium,Morning,Scooter,19,4,37,56,On Time
+864,9.09,Rainy,Medium,Morning,Bike,6,7,43,49,On Time
+913,12.67,Windy,Medium,Morning,Scooter,7,3,43,50,On Time
+370,1.85,Clear,Medium,Evening,Bike,10,1,24,34,On Time
+269,7.51,Rainy,Low,Evening,Car,27,6,50,77,On Time
+47,6.58,Clear,Low,Afternoon,Bike,13,1,34,47,On Time
+350,12.7,Clear,Low,Morning,Scooter,22,2,57,79,On Time
+196,7.31,Foggy,Medium,Afternoon,Bike,26,2,65,91,Delayed
+1000,9.2,Clear,High,Morning,Scooter,9,9,48,57,On Time
+835,10.22,Foggy,Low,Afternoon,Scooter,21,0,61,82,Delayed
+737,8.15,Clear,High,Evening,Scooter,12,9,43,55,On Time
+264,10.61,Clear,Medium,Morning,Bike,17,0,59,76,On Time
+444,7.73,Clear,High,Night,Bike,29,5,58,87,On Time
+676,19.66,Clear,Low,Morning,Car,19,6,70,89,Delayed
+305,14.66,Snowy,High,Morning,Car,5,6,71,76,Delayed
+342,9.73,Clear,Low,Afternoon,Bike,29,6,60,89,On Time
+967,14.52,Clear,Medium,Afternoon,Car,26,5,86,112,Delayed
+125,4.94,Rainy,High,Evening,Scooter,28,4,63,91,Delayed
+787,11.88,Rainy,High,Afternoon,Car,29,9,78,107,Delayed
+51,19.41,Foggy,Medium,Morning,Car,7,6,66,73,Delayed
+928,11.06,Clear,High,Evening,Bike,6,9,53,59,On Time
+143,10.2,Rainy,Medium,Afternoon,Bike,18,9,56,74,On Time
+471,0.74,Rainy,Low,Morning,Car,13,4,21,34,On Time
+400,15.21,Snowy,Medium,Afternoon,Bike,20,9,90,110,Delayed
+626,7.69,Rainy,High,Morning,Scooter,16,3,58,74,On Time
+321,11.21,Clear,High,Afternoon,Scooter,23,1,76,99,Delayed
+20,6.18,Clear,Medium,Evening,Bike,9,9,35,44,On Time
+810,2.71,Clear,Medium,Morning,Car,6,5,19,25,On Time
+791,3.49,Clear,Medium,Morning,Bike,17,2,38,55,On Time
+809,9.29,Clear,Medium,Morning,Bike,17,2,49,66,On Time
+408,0.71,Foggy,Low,Night,Bike,29,1,41,70,On Time
+538,5.32,Rainy,Low,Afternoon,Scooter,27,2,48,75,On Time
+621,4.1,Clear,Medium,Evening,Car,18,3,38,56,On Time
+176,3.9,Rainy,High,Morning,Car,25,9,54,79,On Time
+246,18.6,Rainy,Medium,Morning,Car,28,9,77,105,Delayed
+829,14.88,Snowy,Medium,Evening,Bike,10,0,64,74,Delayed
+668,3.63,Windy,Medium,Morning,Car,22,9,39,61,On Time
+755,3.22,Windy,High,Morning,Car,7,7,27,34,On Time
+859,11.51,Foggy,Low,Afternoon,Car,5,7,57,62,On Time
+155,19.72,Rainy,Low,Afternoon,Bike,27,6,109,136,Delayed
+288,11.08,Clear,Low,Evening,Scooter,28,2,58,86,On Time
+603,3.95,Clear,Medium,Morning,Car,28,5,47,75,On Time
+570,7.29,Clear,High,Evening,Car,11,7,48,59,On Time
+744,10.3,Clear,Low,Morning,Car,12,7,41,53,On Time
+18,10.73,Rainy,High,Afternoon,Car,27,6,83,110,Delayed
+128,17.28,Clear,Low,Morning,Car,28,3,72,100,Delayed
+323,13.37,Foggy,Medium,Evening,Scooter,16,9,71,87,Delayed
+256,11.36,Clear,Medium,Morning,Scooter,8,2,52,60,On Time
+658,7.58,Clear,High,Afternoon,Scooter,19,9,57,76,On Time
+191,2.32,Clear,Low,Afternoon,Scooter,23,1,32,55,On Time
+116,17.49,Rainy,Low,Evening,Bike,27,9,97,124,Delayed
+181,7.15,Windy,Low,Morning,Bike,15,3,42,57,On Time
+760,15.88,Rainy,Low,Evening,Car,17,1,68,85,Delayed
+724,14.95,Clear,Medium,Morning,Bike,13,7,49,62,On Time
+686,11.36,Foggy,Low,Afternoon,Bike,6,4,47,53,On Time
+980,12.14,Foggy,High,Afternoon,Bike,12,0,65,77,Delayed
+518,16.31,Foggy,Medium,Afternoon,Car,14,7,71,85,Delayed
+985,14.7,Clear,Medium,Evening,Scooter,24,5,75,99,Delayed
+46,13.42,Rainy,Medium,Evening,Bike,6,6,105,111,Delayed
+158,15.35,Foggy,Low,Morning,Car,5,3,56,61,On Time
+852,15.12,Foggy,Low,Morning,Bike,14,1,58,72,On Time
+172,0.82,Windy,Low,Morning,Car,18,9,23,41,On Time
+17,6.43,Clear,Low,Evening,Car,9,7,26,35,On Time
+512,8.66,Snowy,High,Morning,Bike,29,3,77,106,Delayed
+49,11.16,Foggy,Medium,Afternoon,Car,21,4,77,98,Delayed
+516,1.01,Clear,High,Night,Bike,17,7,29,46,On Time
+953,3.92,Rainy,Medium,Night,Bike,20,9,41,61,On Time
+481,12.77,Foggy,Low,Morning,Bike,22,8,71,93,Delayed
+284,2.33,Clear,Low,Evening,Bike,9,2,18,27,On Time
+719,2.92,Windy,High,Afternoon,Bike,24,4,48,72,On Time
+878,13.35,Rainy,Low,Evening,Scooter,14,4,91,105,Delayed
+226,5.26,Rainy,Medium,Evening,Scooter,28,8,51,79,On Time
+27,4.39,Foggy,Medium,Night,Bike,12,8,38,50,On Time
+955,8.67,Windy,High,Morning,Bike,20,4,55,75,On Time
+438,16.53,Snowy,Low,Afternoon,Scooter,24,9,99,123,Delayed
+952,13.47,Clear,Medium,Evening,Bike,19,4,59,78,On Time
+365,18.86,Snowy,Medium,Night,Bike,18,1,89,107,Delayed
+230,12.81,Clear,Low,Morning,Bike,12,2,51,63,On Time
+38,2.4,Snowy,Low,Night,Scooter,27,5,42,69,On Time
+966,7.44,Rainy,Medium,Evening,Bike,6,1,39,45,On Time
+375,1.89,Clear,Medium,Evening,Scooter,13,7,22,35,On Time
+470,19.28,Snowy,Medium,Morning,Car,21,3,101,122,Delayed
+851,1.81,Clear,Medium,Afternoon,Car,23,3,34,57,On Time
+705,1.74,Clear,Medium,Night,Bike,23,2,34,57,On Time
+842,13.44,Clear,Medium,Morning,Car,22,1,79,101,Delayed
+855,4.5,Windy,Low,Evening,Scooter,20,6,32,52,On Time
+865,8.31,Windy,Medium,Morning,Bike,6,5,44,50,On Time
+504,16.37,Clear,High,Morning,Bike,26,7,97,123,Delayed
+970,9.78,Clear,Medium,Afternoon,Bike,18,3,58,76,On Time
+831,4.88,Windy,Medium,Afternoon,Scooter,26,7,48,74,On Time
+969,11.54,Clear,High,Afternoon,Car,10,0,56,66,On Time
+909,5.56,Clear,Low,Afternoon,Scooter,19,5,31,50,On Time
+802,3.47,Snowy,High,Night,Bike,24,9,53,77,On Time
+994,12.01,Clear,Low,Morning,Scooter,26,6,57,83,On Time
+756,15.98,Foggy,Low,Morning,Car,21,6,90,111,Delayed
+112,3.64,Clear,Low,Morning,Scooter,16,3,26,42,On Time
+227,19.47,Clear,Low,Morning,Bike,16,8,83,99,Delayed
+689,15.51,Rainy,Medium,Morning,Scooter,10,8,81,91,Delayed
+104,10.42,Windy,Medium,Afternoon,Bike,28,3,72,100,Delayed
+422,15.9,Rainy,Low,Evening,Car,19,5,78,97,Delayed
+420,15.17,Windy,Low,Morning,Bike,25,4,77,102,Delayed
+587,1.98,Rainy,Low,Afternoon,Bike,22,0,39,61,On Time
+781,14.03,Clear,Low,Afternoon,Bike,17,2,65,82,Delayed
+673,2.06,Foggy,Medium,Evening,Scooter,22,4,40,62,On Time
+120,11.02,Clear,High,Morning,Scooter,22,2,70,92,Delayed
+152,5.17,Foggy,Low,Morning,Bike,29,0,56,85,On Time
+404,16.62,Snowy,Low,Afternoon,Bike,26,8,94,120,Delayed
+946,0.71,Rainy,Low,Morning,Car,25,8,31,56,On Time
+659,13.1,Clear,Low,Evening,Bike,28,2,72,100,Delayed
+844,19.24,Rainy,High,Afternoon,Bike,9,7,75,84,Delayed
+763,5.35,Clear,Medium,Afternoon,Scooter,24,6,43,67,On Time
+9,12.22,Clear,Low,Evening,Scooter,15,0,56,71,On Time
+808,18.55,Clear,Low,Afternoon,Car,11,9,69,80,Delayed
+37,6.44,Clear,Low,Afternoon,Car,18,2,43,61,On Time
+453,8.77,Foggy,Medium,Evening,Car,14,7,49,63,On Time
+652,10.97,Clear,Low,Afternoon,Scooter,27,3,51,78,On Time
+254,6.68,Clear,High,Morning,Scooter,10,5,44,54,On Time
+304,12.93,Rainy,Low,Afternoon,Scooter,25,0,61,86,Delayed
+747,7.99,Clear,Medium,Evening,Bike,18,4,42,60,On Time
+572,15.78,Clear,High,Afternoon,Scooter,12,1,68,80,Delayed
+624,9.95,Windy,High,Evening,Scooter,21,5,72,93,Delayed
+733,13.47,Rainy,Low,Afternoon,Scooter,7,6,46,53,On Time
+892,17.19,Clear,Medium,Afternoon,Bike,11,8,76,87,Delayed
+263,3.23,Clear,High,Afternoon,Bike,17,9,33,50,On Time
+611,1.27,Foggy,High,Afternoon,Bike,25,9,46,71,On Time
+298,4.71,Clear,Low,Morning,Bike,20,6,31,51,On Time
+415,12.82,Rainy,Medium,Evening,Bike,28,9,72,100,Delayed
+789,9.51,Clear,High,Morning,Bike,26,9,63,89,Delayed
+641,0.89,Rainy,Low,Morning,Car,9,0,20,29,On Time
+890,5.24,Windy,High,Afternoon,Scooter,26,8,51,77,On Time
+551,10.64,Windy,Low,Evening,Car,11,9,36,47,On Time
+887,13.23,Clear,Medium,Night,Bike,20,8,70,90,Delayed
+489,19.03,Clear,Medium,Morning,Scooter,8,8,65,73,Delayed
+148,10.3,Rainy,Low,Evening,Bike,29,0,73,102,Delayed
+147,12.39,Snowy,Medium,Evening,Bike,14,8,56,70,On Time
+721,18.8,Clear,High,Afternoon,Bike,23,7,95,118,Delayed
+932,16.78,Rainy,Medium,Morning,Bike,22,1,70,92,Delayed
+740,7.85,Clear,Low,Afternoon,Scooter,7,9,34,41,On Time
+660,11.63,Clear,Medium,Night,Scooter,29,7,57,86,On Time
+349,7.8,Windy,Medium,Afternoon,Car,17,6,44,61,On Time
+464,11.88,Rainy,Medium,Afternoon,Bike,5,1,63,68,Delayed
+326,14.89,Clear,High,Evening,Car,22,9,88,110,Delayed
+854,18.01,Foggy,High,Night,Bike,14,2,71,85,Delayed
+609,10.32,Clear,Medium,Night,Car,24,5,49,73,On Time
+144,6.37,Rainy,Low,Afternoon,Car,29,4,56,85,On Time
+959,3.74,Rainy,Low,Morning,Bike,19,6,36,55,On Time
+198,17.99,Windy,High,Evening,Bike,5,1,73,78,Delayed
+610,13.96,Rainy,Low,Night,Bike,5,1,42,47,On Time
+280,16.02,Clear,Low,Evening,Bike,20,7,61,81,Delayed
+401,2.51,Clear,Low,Morning,Bike,16,2,28,44,On Time
+123,6.7,Foggy,High,Morning,Scooter,23,3,59,82,On Time
+184,17.61,Windy,Low,Morning,Bike,5,8,61,66,Delayed
+203,3.65,Clear,Medium,Morning,Bike,29,9,46,75,On Time
+439,14.27,Clear,Medium,Night,Car,24,3,77,101,Delayed
+247,8.85,Clear,Low,Afternoon,Bike,11,9,45,56,On Time
+933,19.7,Rainy,Low,Evening,Car,16,6,66,82,Delayed
+766,11.61,Clear,High,Morning,Car,19,1,67,86,Delayed
+907,16.44,Windy,High,Afternoon,Car,8,0,80,88,Delayed
+836,8.67,Rainy,High,Afternoon,Bike,12,7,104,116,Delayed
+888,5.14,Clear,Medium,Evening,Scooter,23,7,43,66,On Time
+638,5.23,Clear,Medium,Morning,Scooter,23,2,47,70,On Time
+403,10.35,Clear,Medium,Night,Bike,7,9,48,55,On Time
+785,4.04,Rainy,High,Evening,Bike,14,6,39,53,On Time
+771,2.66,Clear,Low,Afternoon,Bike,16,8,21,37,On Time
+736,17.61,Foggy,Medium,Afternoon,Bike,9,5,74,83,Delayed
+914,8.48,Clear,High,Night,Bike,11,5,39,50,On Time
+220,17.06,Clear,Low,Evening,Bike,9,9,66,75,Delayed
+642,6.78,Foggy,Low,Night,Bike,18,6,42,60,On Time
+916,9.0,Snowy,Medium,Afternoon,Car,29,3,78,107,Delayed
+753,12.74,Clear,Low,Afternoon,Scooter,12,0,63,75,Delayed
+807,18.72,Rainy,Medium,Afternoon,Bike,17,0,89,106,Delayed
+625,12.56,Clear,Low,Morning,Car,22,8,49,71,On Time
+875,1.0,Snowy,Medium,Morning,Bike,28,0,51,79,On Time
+761,3.46,Clear,Low,Morning,Bike,24,6,37,61,On Time
+387,6.0,Snowy,Low,Morning,Car,20,8,53,73,On Time
+973,14.79,Clear,Medium,Morning,Scooter,12,9,64,76,Delayed
+510,14.65,Snowy,High,Morning,Car,19,3,95,114,Delayed
+268,14.2,Clear,Medium,Afternoon,Bike,17,1,73,90,Delayed
+820,7.04,Clear,Low,Afternoon,Bike,11,8,38,49,On Time
+497,11.88,Rainy,Medium,Evening,Bike,20,8,69,89,Delayed
+113,18.63,Clear,Low,Evening,Bike,26,8,75,101,Delayed
+692,8.8,Rainy,Medium,Afternoon,Bike,6,2,38,44,On Time
+233,11.75,Clear,High,Morning,Bike,9,2,55,64,On Time
+870,18.95,Snowy,Low,Morning,Car,27,0,92,119,Delayed
+608,7.6,Foggy,Low,Morning,Bike,16,4,48,64,On Time
+672,17.99,Foggy,Low,Morning,Car,11,2,84,95,Delayed
+374,13.82,Clear,Medium,Evening,Bike,21,9,72,93,Delayed
+982,15.53,Foggy,Low,Evening,Bike,26,7,68,94,Delayed
+843,3.97,Clear,High,Afternoon,Bike,19,8,40,59,On Time
+234,10.1,Clear,High,Morning,Car,17,6,55,72,On Time
+786,18.21,Foggy,Low,Morning,Bike,5,1,70,75,Delayed
+677,2.68,Clear,Low,Morning,Bike,16,8,25,41,On Time
+318,3.88,Snowy,Low,Morning,Bike,9,6,33,42,On Time
+649,15.89,Snowy,Medium,Afternoon,Car,15,9,91,106,Delayed
+411,6.73,Clear,Medium,Afternoon,Bike,21,1,54,75,On Time
+899,0.75,Clear,Medium,Afternoon,Bike,10,5,16,26,On Time
+710,13.79,Rainy,Low,Night,Scooter,11,0,69,80,Delayed
+359,18.83,Clear,Medium,Evening,Scooter,5,8,69,74,Delayed
+259,11.62,Clear,Low,Afternoon,Bike,9,8,33,42,On Time
+628,15.08,Rainy,Medium,Evening,Scooter,26,1,94,120,Delayed
+633,10.48,Rainy,Low,Afternoon,Car,10,7,45,55,On Time
+283,7.82,Rainy,Medium,Evening,Bike,16,8,45,61,On Time
+385,14.83,Rainy,Low,Morning,Car,19,4,126,145,Delayed
+225,5.67,Clear,Low,Morning,Scooter,11,9,27,38,On Time
+954,18.33,Snowy,Medium,Morning,Scooter,5,5,67,72,Delayed
+473,1.34,Foggy,High,Evening,Bike,9,5,30,39,On Time
+348,1.38,Clear,Low,Morning,Scooter,13,9,17,30,On Time
+640,7.86,Windy,Medium,Morning,Car,22,2,55,77,On Time
+988,8.98,Clear,Medium,Afternoon,Scooter,22,8,105,127,Delayed
+929,12.85,Rainy,Medium,Evening,Scooter,6,7,61,67,Delayed
+906,17.91,Clear,Low,Afternoon,Bike,6,7,68,74,Delayed
+620,15.09,Snowy,Low,Morning,Car,20,7,68,88,Delayed
+856,4.22,Clear,Medium,Morning,Bike,16,7,35,51,On Time
+804,12.33,Clear,High,Night,Bike,7,2,101,108,Delayed
+646,17.87,Snowy,Low,Morning,Scooter,29,4,87,116,Delayed
+847,2.16,Clear,Medium,Night,Car,10,1,23,33,On Time
+557,3.11,Rainy,Medium,Morning,Scooter,21,1,43,64,On Time
+958,1.42,Clear,High,Afternoon,Scooter,24,2,40,64,On Time
+578,18.57,Rainy,Medium,Afternoon,Bike,16,7,89,105,Delayed
+796,17.51,Clear,Medium,Evening,Bike,15,3,60,75,On Time
+86,6.84,Clear,Medium,Evening,Bike,25,1,51,76,On Time
+699,3.51,Windy,Medium,Night,Bike,22,2,44,66,On Time
+160,14.7,Clear,Medium,Morning,Scooter,6,2,58,64,On Time
+525,16.85,Clear,High,Morning,Car,17,4,71,88,Delayed
+36,16.26,Rainy,Low,Morning,Car,27,5,66,93,Delayed
+541,19.1,Snowy,Medium,Morning,Bike,25,6,90,115,Delayed
+171,13.71,Rainy,Medium,Evening,Bike,22,9,64,86,Delayed
+891,14.58,Clear,Low,Evening,Bike,23,0,70,93,Delayed
+858,9.71,Clear,Low,Afternoon,Car,27,5,61,88,Delayed
+848,19.94,Clear,Low,Afternoon,Bike,26,6,83,109,Delayed
+945,4.53,Snowy,Medium,Morning,Scooter,18,4,49,67,On Time
+734,10.7,Clear,High,Afternoon,Car,8,4,57,65,On Time
+96,10.13,Clear,Medium,Evening,Bike,22,0,65,87,Delayed
+564,0.78,Clear,Low,Afternoon,Bike,11,0,18,29,On Time
+241,18.84,Foggy,Medium,Afternoon,Scooter,25,8,88,113,Delayed
+743,15.08,Snowy,Low,Evening,Bike,29,7,84,113,Delayed
+575,17.32,Clear,Low,Evening,Scooter,10,3,77,87,Delayed
+691,6.81,Clear,Medium,Evening,Bike,23,2,47,70,On Time
+461,2.79,Clear,High,Morning,Bike,23,7,38,61,On Time
+554,11.44,Foggy,High,Afternoon,Car,14,4,74,88,Delayed
+889,2.44,Snowy,High,Evening,Bike,13,9,39,52,On Time
+207,2.48,Rainy,Low,Evening,Scooter,20,8,30,50,On Time
+795,0.85,Clear,Medium,Morning,Bike,9,8,17,26,On Time
+398,8.87,Clear,Low,Evening,Bike,19,3,55,74,On Time
+767,15.37,Snowy,Medium,Afternoon,Car,15,5,66,81,Delayed
+849,10.29,Foggy,Medium,Evening,Scooter,25,4,67,92,Delayed
+218,15.06,Rainy,Low,Morning,Bike,22,4,65,87,Delayed
+769,7.17,Clear,Medium,Morning,Scooter,7,9,29,36,On Time
+643,4.62,Rainy,Medium,Afternoon,Car,8,3,33,41,On Time
+930,5.53,Clear,Low,Morning,Car,10,8,27,37,On Time
+613,12.74,Rainy,Low,Afternoon,Bike,17,9,63,80,Delayed
+739,9.06,Clear,High,Evening,Bike,26,3,61,87,Delayed
+547,2.71,Foggy,Low,Morning,Bike,6,0,28,34,On Time
+726,16.92,Clear,Low,Night,Bike,23,5,78,101,Delayed
+684,13.54,Foggy,Low,Morning,Bike,11,1,54,65,On Time
+99,1.0,Snowy,Medium,Morning,Bike,25,4,44,69,On Time
+805,8.77,Clear,Medium,Morning,Car,12,2,42,54,On Time
+728,16.01,Windy,Low,Morning,Car,28,0,84,112,Delayed
+574,12.63,Foggy,Medium,Night,Scooter,8,8,49,57,On Time
+407,8.09,Foggy,Low,Evening,Car,22,2,56,78,On Time
+503,6.54,Clear,Medium,Night,Bike,10,7,39,49,On Time
+48,10.64,Clear,Medium,Afternoon,Scooter,14,5,45,59,On Time
+33,1.77,Clear,Medium,Evening,Bike,14,9,22,36,On Time
+780,13.0,Foggy,Low,Evening,Bike,25,7,77,102,Delayed
+840,12.83,Clear,Low,Evening,Bike,5,8,50,55,On Time
+201,13.02,Snowy,High,Afternoon,Car,6,9,65,71,Delayed
+135,18.89,Rainy,Medium,Morning,Scooter,22,1,74,96,Delayed
+28,10.53,Foggy,High,Evening,Bike,25,8,72,97,Delayed
+881,5.01,Rainy,Low,Afternoon,Bike,10,5,31,41,On Time
+231,16.0,Foggy,Medium,Afternoon,Scooter,13,3,65,78,Delayed
+490,17.86,Clear,Low,Afternoon,Scooter,16,8,83,99,Delayed
+773,2.99,Foggy,High,Afternoon,Bike,9,5,90,99,Delayed
+379,16.38,Clear,Medium,Morning,Bike,6,2,51,57,On Time
+289,6.09,Clear,Medium,Night,Bike,7,4,27,34,On Time
+419,13.61,Clear,Low,Morning,Bike,26,0,66,92,Delayed
+675,8.5,Snowy,High,Evening,Bike,14,7,56,70,On Time
+392,8.55,Clear,Low,Evening,Scooter,28,8,46,74,On Time
+593,4.05,Clear,Medium,Afternoon,Scooter,21,5,39,60,On Time
+499,19.5,Clear,High,Morning,Bike,18,2,73,91,Delayed
+63,16.66,Snowy,High,Afternoon,Scooter,29,7,95,124,Delayed
+472,19.41,Snowy,High,Evening,Car,21,3,100,121,Delayed
+648,13.74,Foggy,Medium,Afternoon,Bike,6,1,56,62,On Time
+129,0.64,Clear,High,Night,Bike,10,3,24,34,On Time
+977,12.1,Clear,High,Afternoon,Bike,11,0,53,64,On Time
+521,12.09,Clear,Medium,Morning,Car,13,1,60,73,On Time
+839,11.82,Windy,Medium,Night,Bike,24,7,77,101,Delayed
+963,5.28,Foggy,Low,Morning,Bike,27,6,53,80,On Time
+65,5.98,Clear,Low,Evening,Car,22,9,35,57,On Time
+813,2.93,Clear,Medium,Morning,Bike,24,8,94,118,Delayed
+15,4.05,Snowy,Medium,Evening,Scooter,19,2,50,69,On Time
+493,5.91,Clear,Medium,Evening,Scooter,29,4,57,86,On Time
+380,6.0,Rainy,Medium,Evening,Scooter,21,2,47,68,On Time
+188,11.33,Clear,Medium,Afternoon,Scooter,29,7,77,106,Delayed
+764,15.01,Clear,Medium,Morning,Bike,15,6,64,79,Delayed
+217,6.85,Clear,High,Morning,Bike,16,5,48,64,On Time
+792,11.93,Snowy,High,Morning,Car,7,1,75,82,Delayed
+53,18.82,Windy,Low,Morning,Car,5,3,77,82,Delayed
+879,1.03,Clear,Medium,Afternoon,Bike,19,4,29,48,On Time
+720,14.75,Clear,Low,Morning,Car,10,7,62,72,Delayed
+725,11.7,Rainy,Low,Afternoon,Bike,17,5,60,77,On Time
+296,10.68,Clear,Low,Morning,Bike,14,1,42,56,On Time
+702,1.51,Clear,High,Evening,Bike,26,1,44,70,On Time
+252,8.01,Clear,High,Morning,Bike,8,6,48,56,On Time
+727,3.23,Rainy,Low,Morning,Car,25,7,42,67,On Time
+462,13.16,Rainy,High,Morning,Scooter,25,8,68,93,Delayed
+456,10.11,Windy,Low,Morning,Bike,11,4,44,55,On Time
+997,18.39,Windy,Low,Afternoon,Bike,24,6,74,98,Delayed
+816,10.62,Windy,Medium,Afternoon,Car,22,5,54,76,On Time
+270,6.23,Clear,Medium,Evening,Car,20,1,51,71,On Time
+202,2.14,Clear,Low,Afternoon,Bike,25,1,36,61,On Time
+162,12.83,Clear,Medium,Morning,Bike,19,2,76,95,Delayed
+556,8.37,Clear,High,Evening,Scooter,13,7,42,55,On Time
+730,3.69,Rainy,Medium,Afternoon,Bike,8,8,27,35,On Time
+402,18.1,Clear,Low,Morning,Scooter,8,5,77,85,Delayed
+703,7.06,Clear,Low,Afternoon,Scooter,26,5,51,77,On Time
+477,1.94,Foggy,Low,Night,Bike,10,1,25,35,On Time
+822,0.59,Clear,Low,Afternoon,Bike,21,0,27,48,On Time
+772,17.01,Snowy,Low,Night,Bike,28,6,97,125,Delayed
+106,5.36,Clear,Low,Afternoon,Scooter,11,4,30,41,On Time
+566,12.0,Clear,Low,Evening,Car,25,0,75,100,Delayed
+390,16.23,Clear,Medium,Evening,Bike,6,0,54,60,On Time
+2,19.04,Rainy,Low,Evening,Car,12,6,60,72,On Time
+938,18.33,Foggy,Medium,Morning,Scooter,19,0,98,117,Delayed
+983,2.58,Clear,Medium,Morning,Scooter,25,7,37,62,On Time
+562,4.65,Clear,Medium,Evening,Bike,21,1,46,67,On Time
+81,17.33,Snowy,Low,Evening,Scooter,12,3,79,91,Delayed
+206,0.68,Snowy,High,Evening,Bike,29,8,50,79,On Time
+35,19.33,Clear,Medium,Morning,Bike,7,8,73,80,Delayed
+776,3.42,Clear,Medium,Night,Car,11,9,24,35,On Time
+509,19.02,Rainy,High,Evening,Scooter,22,1,106,128,Delayed
+428,17.81,Windy,High,Evening,Bike,21,4,122,143,Delayed
+455,2.67,Clear,Medium,Night,Car,17,6,28,45,On Time
+898,17.98,Clear,Low,Evening,Bike,5,8,45,50,On Time
+565,7.34,Foggy,Medium,Afternoon,Bike,22,5,93,115,Delayed
+346,12.51,Clear,Medium,Evening,Bike,18,5,62,80,Delayed
+777,4.97,Rainy,Low,Evening,Bike,17,9,34,51,On Time
+242,19.1,Snowy,Low,Afternoon,Bike,18,1,101,119,Delayed
+14,4.64,Clear,Low,Afternoon,Bike,15,9,24,39,On Time
+316,14.07,Rainy,Low,Evening,Bike,10,5,63,73,Delayed
+601,3.79,Clear,Medium,Morning,Bike,13,2,34,47,On Time
+274,18.31,Clear,Medium,Afternoon,Bike,25,3,79,104,Delayed
+167,6.76,Foggy,Medium,Night,Bike,7,6,42,49,On Time
+841,0.76,Clear,Low,Afternoon,Car,26,9,28,54,On Time
+993,5.81,Rainy,Medium,Evening,Bike,14,8,41,55,On Time
+647,12.08,Clear,High,Afternoon,Scooter,16,4,60,76,On Time
+819,1.57,Rainy,Low,Evening,Car,16,1,30,46,On Time
+485,11.89,Clear,Medium,Afternoon,Bike,28,0,79,107,Delayed
+981,7.02,Clear,Medium,Evening,Car,23,2,53,76,On Time
+505,13.85,Clear,Low,Evening,Bike,29,5,71,100,Delayed
+832,9.32,Rainy,Medium,Evening,Scooter,24,2,71,95,Delayed
+244,7.72,Foggy,High,Evening,Bike,19,4,64,83,Delayed
+567,8.15,Rainy,Low,Afternoon,Bike,26,2,50,76,On Time
+876,3.54,Rainy,Medium,Afternoon,Scooter,17,4,41,58,On Time
+687,11.65,Windy,Low,Night,Bike,10,3,53,63,On Time
+783,5.41,Clear,High,Morning,Scooter,17,6,38,55,On Time
+700,9.88,Rainy,Medium,Morning,Car,7,0,43,50,On Time
+476,19.86,Rainy,High,Evening,Bike,12,8,71,83,Delayed
+682,5.53,Windy,High,Morning,Bike,23,4,59,82,On Time
+511,12.46,Foggy,Low,Afternoon,Bike,10,1,62,72,Delayed
+59,1.38,Clear,Medium,Morning,Car,6,3,17,23,On Time
+475,10.79,Clear,Medium,Evening,Scooter,24,1,65,89,Delayed
+561,14.23,Clear,Medium,Afternoon,Scooter,23,7,70,93,Delayed
+857,1.21,Snowy,Low,Afternoon,Bike,22,1,39,61,On Time
+748,11.1,Clear,Low,Afternoon,Bike,18,7,56,74,On Time
+253,17.1,Clear,Medium,Evening,Bike,25,5,65,90,Delayed
+22,3.22,Clear,Medium,Afternoon,Bike,19,9,32,51,On Time
+314,19.27,Foggy,Medium,Morning,Car,29,9,85,114,Delayed
+460,2.82,Rainy,Medium,Evening,Scooter,10,1,29,39,On Time
+161,7.67,Foggy,Medium,Afternoon,Scooter,22,8,59,81,On Time
+277,16.07,Clear,Medium,Evening,Bike,16,5,64,80,Delayed
+956,7.97,Windy,Medium,Evening,Scooter,9,8,35,44,On Time
+386,16.17,Clear,Medium,Evening,Scooter,12,2,78,90,Delayed
+492,12.59,Clear,Low,Evening,Scooter,10,2,39,49,On Time
+770,16.51,Clear,Medium,Morning,Bike,7,1,79,86,Delayed
+309,16.01,Clear,Low,Afternoon,Car,12,4,72,84,Delayed
+662,19.74,Rainy,High,Afternoon,Scooter,11,7,81,92,Delayed
+131,8.64,Snowy,Low,Evening,Bike,29,4,62,91,Delayed
+664,5.13,Clear,Medium,Morning,Car,16,1,38,54,On Time
+872,5.78,Clear,High,Morning,Bike,11,5,38,49,On Time
+100,2.6,Clear,Low,Afternoon,Bike,16,1,29,45,On Time
+373,2.34,Foggy,Medium,Morning,Bike,8,2,28,36,On Time
+88,12.93,Clear,Medium,Morning,Scooter,20,8,58,78,On Time
+459,1.6,Clear,Medium,Evening,Bike,14,8,24,38,On Time
+122,17.97,Windy,Medium,Morning,Scooter,28,7,92,120,Delayed
+615,17.53,Clear,Low,Afternoon,Bike,14,6,79,93,Delayed
+21,12.43,Rainy,High,Morning,Bike,13,6,70,83,Delayed
+701,10.89,Windy,Medium,Evening,Bike,7,0,58,65,On Time
+72,4.37,Clear,Medium,Evening,Scooter,6,7,25,31,On Time
+107,8.5,Clear,High,Evening,Car,13,3,54,67,On Time
+271,16.28,Rainy,Low,Morning,Scooter,8,9,71,79,Delayed
+861,15.62,Snowy,High,Evening,Scooter,26,2,81,107,Delayed
+436,14.17,Clear,Low,Afternoon,Bike,8,0,55,63,On Time
+103,6.63,Foggy,Low,Night,Scooter,24,3,58,82,On Time
