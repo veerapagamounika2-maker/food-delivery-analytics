@@ -3,12 +3,6 @@
 End-to-end analytics project analyzing food delivery
 operations using Python, SQL Server, Power BI and Streamlit.
 
-## 🔗 Live Demo
-
-[Click here](your-streamlit-link)
-Local URL: http://localhost:8501
-Network URL: http://192.168.29.60:8501
-
 ## 📊 Tech Stack
 
 - Python, Pandas — Data cleaning
